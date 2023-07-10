@@ -1,0 +1,2 @@
+# kubernetes
+wordpress_and_database_manifest_file
